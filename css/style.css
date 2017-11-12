@@ -1,0 +1,37 @@
+.header {
+  text-align: center;
+}
+
+.header h1{
+  font-size: 75px;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+.content{
+  text-align: center;
+}
+.box {
+  height: 50vh;
+  width: 20vh;
+  background: teal;
+  display: table-cell;
+}
+
+.row{
+  display: table;
+  text-align: centerer;
+  width: 100%;
+  border-spacing: 10px;
+}
+
+#pup1 {
+  background-image: url(https://previews.123rf.com/images/laures/laures1102/laures110200156/8947615-Pembroke-Welsh-Corgi-puppy-isolated-on-a-white-background-Stock-Photo.jpg)
+}
+
+#pup2 {
+  background-image: url(http://www.downesvets.co.uk/wp-content/uploads/2015/07/puppy-package1.png)
+}
+
+#pup3 {
+  background-image: url(http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg)
+}
